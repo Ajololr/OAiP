@@ -1,0 +1,63 @@
+object Ilya: TIlya
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = Single
+  Caption = 'Ilya Androsov 851001'
+  ClientHeight = 421
+  ClientWidth = 291
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object MainMenu: TMainMenu
+    Left = 216
+    Top = 24
+    object Help: TMenuItem
+      Text = 'Help'
+    end
+    object Start: TMenuItem
+      Text = 'Start'
+    end
+    object AddLeft: TMenuItem
+      Text = 'Add left'
+    end
+    object AddRight: TMenuItem
+      Text = 'Add right'
+    end
+  end
+  object PopupMenu: TPopupMenu
+    Left = 216
+    Top = 72
+  end
+  object AddBtn: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 48.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Add'
+    OnClick = AddBtnClick
+  end
+  object AddEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Position.X = 16.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 97.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object TreeView: TTreeView
+    Position.X = 16.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 209.000000000000000000
+    Size.Height = 313.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    Viewport.Width = 205.000000000000000000
+    Viewport.Height = 309.000000000000000000
+  end
+end

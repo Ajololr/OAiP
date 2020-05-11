@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.204,=C:\Users\Алексей\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,=C:\Users\Алексей\Pictures\Безымянны.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,C:\Users\Алексей\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Проги\Блок 5\5_2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,=D:\Проги\Блок 5\5_2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,D:\Проги\Блок 5\5_2\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,=C:\Users\Алексей\Pictures\Grafic.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,C:\Users\Алексей\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Проги\Блок 5\5_2\Project52.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,C:\Users\Алексей\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Проги\Блок 5\5_2\Unit1.dfm</Transaction>
+    <Transaction>2019.03.28 08:16:23.323,C:\Users\Andros\Desktop\5_2\Graf.dfm=C:\Users\Andros\Desktop\5_2\Unit1.dfm</Transaction>
+    <Transaction>2019.03.28 08:16:23.323,C:\Users\Andros\Desktop\5_2\Graf.pas=C:\Users\Andros\Desktop\5_2\Unit1.pas</Transaction>
+    <Transaction>2019.03.28 08:16:40.533,C:\Users\Andros\Desktop\5_2\Laba_5_2.dproj=C:\Users\Andros\Desktop\5_2\Project52.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Graf.pas"/>
+    <File Path="Graf.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.577,D:\Projects\Лабы ОАИП\4\1\EditStudent.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\Лабы ОАИП\4\1\Students.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projects\Лабы ОАИП\4\1\Lab_4_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,D:\Projects\Лабы ОАИП\4\1\AddStudent.pas=D:\Projects\Лабы ОАИП\4\1\ManageStudent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,D:\Projects\Лабы ОАИП\4\1\AddStudent.dfm=D:\Projects\Лабы ОАИП\4\1\ManageStudent.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,D:\Projects\Лабы ОАИП\4\1\Unit1.pas=D:\Projects\Лабы ОАИП\4\1\EditStudent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Лабы ОАИП\4\1\Students.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,D:\Projects\Лабы ОАИП\4\1\Unit1.dfm=D:\Projects\Лабы ОАИП\4\1\EditStudent.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,D:\Projects\Лабы ОАИП\4\1\Unit1.dfm=D:\Projects\Лабы ОАИП\4\1\AddStudent.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,D:\Projects\Лабы ОАИП\4\1\Unit1.pas=D:\Projects\Лабы ОАИП\4\1\AddStudent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=D:\Projects\Лабы ОАИП\4\1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,=D:\Projects\Лабы ОАИП\4\1\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

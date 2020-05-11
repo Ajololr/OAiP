@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.776,=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Unit1.pas=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Graph.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,D:\Programs\Embarcadero\Studio\Projects\Project1.dproj=D:\Programs\Embarcadero\Studio\Projects\Lab_7_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,D:\Programs\Embarcadero\Studio\Projects\Lab_7_1.dproj=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Lab_7_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Unit1.pas=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\VertexQueue.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,D:\Programs\Embarcadero\Studio\Projects\Main.pas=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,D:\Programs\Embarcadero\Studio\Projects\Main.dfm=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,D:\Programs\Embarcadero\Studio\Projects\Unit1.dfm=D:\Programs\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Unit1.dfm=D:\University\2 сем\ОАиП\Лабы\7\Lab_7_1\Graph.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,D:\Programs\Embarcadero\Studio\Projects\Unit1.pas=D:\Programs\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,=D:\Programs\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

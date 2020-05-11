@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Laba_3_1.dproj=C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Lab1_3_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Лабы ОАИП\4\3_1\Lab_3_1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.303,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Laba_3_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Lab3_1.dproj=D:\Projects\Лабы ОАИП\4\3_1\Lab3_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\Лабы ОАИП\4\3_1\Lab_3_1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Lab1_3_1.dproj=C:\Users\Andros\Documents\Embarcadero\Studio\Projects\Lab3_1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.987,D:\Projects\delphi projects\BinaryTree.pas=D:\Projects\2 сем\Лабы ОАиП\6\Lab_6_2\BinaryTree.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,D:\Projects\delphi projects\Lab_6_2.dproj=D:\Projects\2 сем\Лабы ОАиП\6\Lab_6_2\Lab_6_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,D:\Projects\delphi projects\Unit1.fmx=D:\Projects\delphi projects\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\Projects\delphi projects\Main.fmx=D:\Projects\2 сем\Лабы ОАиП\6\Lab_6_2\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,D:\Projects\delphi projects\Main.pas=D:\Projects\2 сем\Лабы ОАиП\6\Lab_6_2\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,D:\Projects\delphi projects\Project1.dproj=D:\Projects\delphi projects\Lab_6_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=D:\Projects\delphi projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,D:\Projects\delphi projects\Unit2.pas=D:\Projects\delphi projects\BinaryTree.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,D:\Projects\delphi projects\Unit1.pas=D:\Projects\delphi projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.219,=D:\Projects\delphi projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=D:\Projects\delphi projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

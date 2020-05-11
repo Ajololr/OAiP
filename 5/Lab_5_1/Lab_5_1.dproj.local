@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.303,D:\Projects\delphi projects\Project1.dproj=D:\Projects\2 сем\Лабы ОАиП\5\Lab_5_1\Lab_5_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,D:\Projects\delphi projects\Unit1.pas=D:\Projects\2 сем\Лабы ОАиП\5\Lab_5_1\Clock.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,=D:\Projects\delphi projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,D:\Projects\delphi projects\Unit1.fmx=D:\Projects\2 сем\Лабы ОАиП\5\Lab_5_1\Clock.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,C:\Users\Andros\Desktop\660x660.jpg=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,=C:\Users\Andros\Desktop\660x660.jpg</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
